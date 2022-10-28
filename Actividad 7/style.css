@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+body {
+    background:linear-gradient(90deg,pink,#fb9000);
+    text-align: center;
+}
